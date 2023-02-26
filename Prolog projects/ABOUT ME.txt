@@ -1,0 +1,7 @@
+Herein you will find several prolog problem-solution sets. The code is written in SWI prolog and a link to its offocial website has been provided.
+
+
+
+
+
+Note: This PROJECT was part of the CPS721 course at Ryerson university taught by Ilkka Kokkarinen.
